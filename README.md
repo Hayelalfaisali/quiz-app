@@ -3,7 +3,7 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 ## Live Demo
-Check out the live version of this project [here]([https://admin-dashboard-vuejs3.netlify.app/](https://react-quiz-app-example.netlify.app/)).
+Check out the live version of this project [here]([https://admin-dashboard-vuejs3.netlify.app/](https://react-quiz-app-example.netlify.app/).
 
 Currently, two official plugins are available:
 
